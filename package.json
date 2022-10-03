@@ -1,0 +1,24 @@
+{
+  "name": "aws-gh-actions-testing",
+  "version": "1.0.0",
+  "description": "AWS-GH-Actions-Testing to test out building docker images through GH-actions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thibben/AWS-GH-Actions-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thibben/AWS-GH-Actions-Testing/issues"
+  },
+  "homepage": "https://github.com/thibben/AWS-GH-Actions-Testing#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "path": "^0.12.7"
+  }
+}
